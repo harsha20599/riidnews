@@ -1,0 +1,36 @@
+{
+  "name": "RiidNews - A News App",
+  "short_name": "RiidNews",
+  "lang": "en-IN",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d4145a",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "png"
+    },
+    {
+      "src": "images/logo_192.png",
+      "sizes": "192x192",
+      "type": "png"
+    },
+    {
+      "src": "images/logo_96.png",
+      "sizes": "96x96",
+      "type": "png"
+    },
+    {
+      "src": "images/logo_72.png",
+      "sizes": "72x72",
+      "type": "png"
+    },
+    {
+      "src": "images/logo_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#f42f7f"
+}

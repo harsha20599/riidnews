@@ -1,0 +1,14 @@
+{
+  "name": "news-pwa",
+  "version": "1.0.0",
+  "description": "This is a site which provide news in most countries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsha20599",
+  "license": "ISC",
+  "dependencies": {
+    "workbox-sw": "^3.2.0"
+  }
+}

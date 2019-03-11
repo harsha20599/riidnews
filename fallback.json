@@ -1,0 +1,10 @@
+
+{"articles":[
+    {
+        "title" : "Can't able to fetch articles.",
+        "url" : "",
+        "urlToImage" : "images/logo.png",
+        "description":"Try reloading the page when you're online"
+    }
+]
+}
